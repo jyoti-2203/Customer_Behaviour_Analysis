@@ -5,40 +5,40 @@ This project focuses on understanding customer purchasing behavior and identifyi
 
 🔍 Objectives
 
-Analyze demographic and behavioral patterns of customers
+✔ Analyze demographic and behavioral patterns of customers
 
-Identify trends in product preferences and purchase frequency
+✔ Identify trends in product preferences and purchase frequency
 
-Segment customers into meaningful groups for targeted marketing
+✔ Segment customers into meaningful groups for targeted marketing
 
-Predict customer purchasing likelihood using machine learning models
+✔ Predict customer purchasing likelihood using machine learning models
 
 📌 Key Steps & Methods
 
-Data cleaning & preprocessing
+✔ Data cleaning & preprocessing
 
-Exploratory Data Analysis (EDA) with visualizations
+✔ Exploratory Data Analysis (EDA) with visualizations
 
-Feature Engineering
+✔ Feature Engineering
 
-Clustering (e.g., K-Means) for segmentation
+✔ Clustering (e.g., K-Means) for segmentation
 
-Predictive modeling (Classification / Regression)
+✔ Predictive modeling (Classification / Regression)
 
 🛠️ Tools & Technologies
 
-Python
+✔ Python
 
-Pandas, NumPy, Matplotlib, Seaborn
+✔ Pandas, NumPy, Matplotlib, Seaborn
 
-Scikit-learn for ML algorithms
+✔ Scikit-learn for ML algorithms
 
-Jupyter Notebook for development and analysis
+✔ Jupyter Notebook for development and analysis
 
 🎯 Business Impact
 
-Helps retailers personalize offers & marketing strategies
+✔ Helps retailers personalize offers & marketing strategies
 
-Supports churn reduction by identifying risky customer groups
+✔ Supports churn reduction by identifying risky customer groups
 
-Enables data-driven decision-making for pricing and promotions
+✔ Enables data-driven decision-making for pricing and promotions
